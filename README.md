@@ -13,7 +13,7 @@ After the dependencies are installed, start the application by running the follo
 sql
 Copy code
 npm start
-The application will start in your default browser. Click the "Click me" button to display a random image.
+The application will start in your defaulbrowser. Click the "Click me" button to display a random image.
 How it Works
 The application uses the useState hook in React to manage the state of the image URL. When the user clicks the "Click me" button, the callImg function is called, which fetches a random image from the Unsplash API and sets the URL as the new state.
 
